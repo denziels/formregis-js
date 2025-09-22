@@ -11,7 +11,7 @@ const daftarNama = [
     "Miley Cyrus", "Nicki Minaj", "Olivia Rodrigo",
     "Post Malone", "Queen", 
     "Rihanna", "Selena Gomez", "The Weeknd",
-    "Usher", "Victoria Beckham"
+    "Usher", "Victoria Beckham",
     "Whitney Houston", "Will Smith",
     "Xzibit", "Yiruma", "Young Thug", 
     "Zayn Malik", "Zendaya"
